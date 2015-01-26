@@ -46,7 +46,7 @@ app.use(multer({
 // Database configuration
 var dbOptions = {
   host: 'localhost',
-  user: 'roots',
+  user: 'rooter',
   password: '',
   database: 'sss-final'
 };
