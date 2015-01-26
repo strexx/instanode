@@ -8,7 +8,7 @@ var mysql = require('mysql');
 var myConnection = require('express-myconnection');
 
 //  =================
-//  = Setup the app = // == NICKY TEST
+//  = Setup the app = // == NICKY TEST en Fons Test
 //  =================
 
 // The app itself
